@@ -1,0 +1,150 @@
+{
+    "Header": {
+      "title": "Завод игрового и спортивного оборудования",
+      "paragraph": "Производство: детские площадки, спортивное оборудование, скейт-парки"
+    },
+    "About": {
+      "paragraph": "Готовые детские площадки и малые архитектурные формы МАФ от компании ДиКом – это всевозможные конструкции: карусели, песочницы, шведские стенки, качели самых разнообразных цветов, форм и размеров по доступным ценам. Мы также делаем профессиональные спортивные покрытия, хоккейные коробки, парковую м.",
+      "Why": [
+        "игровые комплексы",
+        "качалки",
+        "шведские стенки"
+      ],
+      "Why2": [
+        "столики",
+        "песочницы",
+        "и многое другое."
+      ]
+    },
+    "Gallery": [
+      {
+        "title": "Игровые комплексы для малышей",
+        "largeImage": "img/portfolio/01-large.jpg",
+        "smallImage": "img/portfolio/01-small.jpg"
+      },
+      {
+        "title": "Игровые комплексы",
+        "largeImage": "img/portfolio/02-large.jpg",
+        "smallImage": "img/portfolio/02-small.jpg"
+      },
+      {
+        "title": "Песочницы",
+        "largeImage": "img/portfolio/03-large.jpg",
+        "smallImage": "img/portfolio/03-small.jpg"
+      },
+      {
+        "title": "Детские домики",
+        "largeImage": "img/portfolio/04-large.jpg",
+        "smallImage": "img/portfolio/04-small.jpg"
+      },
+      {
+        "title": "Игровое оборудование",
+        "largeImage": "img/portfolio/05-large.jpg",
+        "smallImage": "img/portfolio/05-small.jpg"
+      },
+      {
+        "title": "Горки",
+        "largeImage": "img/portfolio/06-large.jpg",
+        "smallImage": "img/portfolio/06-small.jpg"
+      },
+      {
+        "title": "Столы детские",
+        "largeImage": "img/portfolio/07-large.jpg",
+        "smallImage": "img/portfolio/07-small.jpg"
+      },
+      {
+        "title": "Скамейки детские",
+        "largeImage": "img/portfolio/08-large.jpg",
+        "smallImage": "img/portfolio/08-small.jpg"
+      },
+      {
+        "title": "Качалки на пружинах",
+        "largeImage": "img/portfolio/09-large.jpg",
+        "smallImage": "img/portfolio/09-small.jpg"
+      },
+      {
+        "title": "Качели",
+        "largeImage": "img/portfolio/10-large.jpg",
+        "smallImage": "img/portfolio/10-small.jpg"
+      },
+      {
+        "title": "Качалка-балансиры",
+        "largeImage": "img/portfolio/11-large.jpg",
+        "smallImage": "img/portfolio/11-small.jpg"
+      },
+      {
+        "title": "Карусели",
+        "largeImage": "img/portfolio/12-large.jpg",
+        "smallImage": "img/portfolio/12-small.jpg"
+      },
+      {
+        "title": "Лазы",
+        "largeImage": "img/portfolio/13-large.jpg",
+        "smallImage": "img/portfolio/13-small.jpg"
+      },
+      {
+        "title": "Спортивные площадки",
+        "largeImage": "img/portfolio/14-large.jpg",
+        "smallImage": "img/portfolio/14-small.jpg"
+      },
+      {
+        "title": "Скейт площадки",
+        "largeImage": "img/portfolio/15-large.jpg",
+        "smallImage": "img/portfolio/15-small.jpg"
+      },
+      {
+        "title": "Тренажёры",
+        "largeImage": "img/portfolio/16-large.jpg",
+        "smallImage": "img/portfolio/16-small.jpg"
+      },
+      {
+        "title": "Воркаут",
+        "largeImage": "img/portfolio/17-large.jpg",
+        "smallImage": "img/portfolio/17-small.jpg"
+      },
+      {
+        "title": "Ограждения",
+        "largeImage": "img/portfolio/18-large.jpg",
+        "smallImage": "img/portfolio/18-small.jpg"
+      },
+      {
+        "title": "Хоккейные коробки",
+        "largeImage": "img/portfolio/19-large.jpg",
+        "smallImage": "img/portfolio/19-small.jpg"
+      },
+      {
+        "title": "Трибуны",
+        "largeImage": "img/portfolio/20-large.jpg",
+        "smallImage": "img/portfolio/20-small.jpg"
+      },
+      {
+        "title": "Детские веранды",
+        "largeImage": "img/portfolio/21-large.jpg",
+        "smallImage": "img/portfolio/21-small.jpg"
+      },
+      {
+        "title":"Ограждения",
+        "largeImage": "img/portfolio/22-large.jpg",
+        "smallImage": "img/portfolio/22-small.jpg"
+      },
+      {
+        "title": "Навесы",
+        "largeImage": "img/portfolio/23-large.jpg",
+        "smallImage": "img/portfolio/23-small.jpg"
+      },
+      {
+        "title": "Диваны и скамьи",
+        "largeImage": "img/portfolio/24-large.jpg",
+        "smallImage": "img/portfolio/24-small.jpg"
+      }
+    ],
+    "Contact": {
+      "address": "Россия г. Москва 2-й Донской проезд, д. 4",
+      "phone": "+7 (960) 569-03-84",
+      "website":"www.ppkdikom.ru",
+      "email": "info@ppkdikom.ru",
+      "facebook": "fb.com",
+      "twitter": "twitter.com",
+      "youtube": "youtube.com"
+    }
+  } 

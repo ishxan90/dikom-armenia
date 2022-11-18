@@ -1,0 +1,9 @@
+#sertificates{
+    margin-top: 50px;
+}
+
+.content {
+    /* height: 0px; */
+    overflow: hidden;
+    transition: height ease-in 0.4s;
+}

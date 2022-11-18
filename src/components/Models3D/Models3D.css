@@ -1,0 +1,22 @@
+#models3D .service-desc {
+  margin: 5px 5px 10px;
+}
+
+.img-container {
+  transition: transform ease-in 0.3s;
+  transition-delay: 0.1s;
+} 
+  
+.img-container:hover {
+  transform: scale(1.5);
+}
+
+.img-content {
+  overflow: hidden;
+  /* transition: height ease 0.9s; */
+  transition: all ease-in 0.4s;
+  transition-delay: 0.1s;
+  /* margin-top: 1vw; */
+}
+
+

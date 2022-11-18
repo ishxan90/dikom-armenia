@@ -1,0 +1,22 @@
+.backGr{
+    background-image: url("https://ppkdikom.ru/images/about/about-bg-2.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.backGr2{
+    background-image: url("https://ppkdikom.ru/images/about/about-bg-2.jpg");
+    background-repeat: no-repeat;
+    background-position: left;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.backFon{
+    background-color:rgb(61, 102, 138)
+}

@@ -1,0 +1,14 @@
+#mediavideo{
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: whitesmoke
+}
+
+.block_title{
+    margin-bottom: 1vw;
+}
+
+iframe{
+    width: 70vw;
+    height: 38vw;
+}
