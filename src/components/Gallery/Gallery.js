@@ -20,7 +20,7 @@ export const Gallery = (props) => {
               ? props.data.map((d, i) => (
                 <div key={`${d.title}-${i}`} className='col-sm-6 col-md-4 col-lg-3'>
                   <Image title={d.title} smallImage={d.smallImage} />
-                  <p style={{height:"2vw"}}>{d.title}</p>
+                  <p style={{height:"2.5vw"}}>{d.title}</p>
                 </div>
               ))
               : 'Loading...'

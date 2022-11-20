@@ -16,8 +16,6 @@ import { useTranslation } from "react-i18next"
 import './i18n'
 
 
-
-
 export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
   speedAsDuration: true,
