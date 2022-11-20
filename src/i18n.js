@@ -9,6 +9,7 @@ i18next
 .use(LanguageDetector)
 .init({
     fallbackLng: 'arm',
+    lng: 'arm',
     debug: true,
     detection:{
         order: ['queryString', 'cookie'],
