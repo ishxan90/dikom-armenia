@@ -18,7 +18,7 @@ export default function SimpleSnackbar(props) {
         onClose={handleClose}
         >
         <Alert sx={{ width: '100%' }} variant="filled" severity="success">
-          <p>{props.t('сообщение отправлено')}</p>
+          <p>{props.t('сообщение отправлено, мы свяжемся с вами в ближайшее время')}</p>
         </Alert>    
       </Snackbar>
     </div>

@@ -41,7 +41,10 @@ export const FormControl = (props) => {
                 id='name'
                 name="user_name"
                 className='form-control'
-                placeholder={props.t('Имя')}   
+                placeholder={props.t('Имя')}
+                required   
+                onInvalid={e => e.target.setCustomValidity(props.t('введите ваше имя'))}
+                onInput={e => e.target.setCustomValidity('')}
                 />
                 <p className='help-block text-danger'></p>
               </div>
@@ -53,7 +56,10 @@ export const FormControl = (props) => {
                   id='telnumber'
                   name='user_telnumber'
                   className='form-control'
-                  placeholder={props.t('номер телефона')}     
+                  placeholder={props.t('Номер телефона')}
+                  required
+                  onInvalid={e => e.target.setCustomValidity(props.t('введите номер вашего телефона'))}
+                  onInput={e => e.target.setCustomValidity('')}
                 />
                 <p className='help-block text-danger'></p>
               </div>
@@ -84,7 +90,7 @@ export const FormControl = (props) => {
             </div>
             <div id='success'></div>
               <button type='submit' className='btn btn-custom btn-lg' style={{marginLeft:'15px'}}
-                onClick={sendEmail}>{props.t('Отправить сообщение')}
+                >{props.t('Отправить сообщение')}
               </button>
         </div>
       </form>
